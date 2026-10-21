@@ -14,10 +14,10 @@ In the music construction, I used two contrasting genres, house (Show Me Love) a
  
 	
 ## Technologies
-Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+The project is created with:
+* tunepad.com
+* Python version: 3.14.6
+  
 	
 ## Setup
 To run this project, install it locally using npm:
