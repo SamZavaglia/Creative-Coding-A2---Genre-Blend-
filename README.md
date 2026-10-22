@@ -20,10 +20,7 @@ The project is created with:
   
 	
 ## Setup
-To run this project, install it locally using npm:
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
+To hear the final music composition:
+* Play mp3 file
+* Import JASON file into tunepad.com
+  
