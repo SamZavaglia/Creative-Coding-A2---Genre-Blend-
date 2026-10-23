@@ -10,7 +10,7 @@ My project is called “Genre Blend”. The aim of the project is to demonstrate
  
 The artistic challenge that I wanted to solve is the fusion of music genres that are almost opposite in terms of musical approach. Instead of simply placing two distinct genres side by side, I experimented with the ways in which the genres can interact with one another and join to form a blend.
  
-In the music construction, I used two contrasting genres, house (Show Me Love) and classical music (Marvins Room), allowing me to experiment with the differences in rhythm, instruments, melody, and structure of music. The primary aim was not just to be having two genres in one song, but to create a music process in which they influence each other.
+In the music construction, I used two contrasting genres, house (Show Me Love) and classical music (outro of Marvins Room), allowing me to experiment with the differences in rhythm, instruments, melody, and structure of music. The primary aim was not just to be having two genres in one song, but to create a music process in which they influence each other.
 
 	
 ## Technologies
@@ -22,5 +22,6 @@ The project is created with:
 ## Setup
 To hear the final music composition:
 * Play mp3 file
+       or
 * Import JSON file into tunepad.com
   
