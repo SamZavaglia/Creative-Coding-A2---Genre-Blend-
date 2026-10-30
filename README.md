@@ -23,5 +23,5 @@ The project is created with:
 To hear the final music composition:
 * Play mp3 file
        or
-* Import JSON file into tunepad.com
+* Import json file into tunepad.com
   
